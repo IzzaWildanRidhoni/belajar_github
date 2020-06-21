@@ -1,3 +1,7 @@
 -belajar framework javascript
+  >angular
+  >react
 -framework css
+  >bootstrap
 -framework php
+  >laravel
